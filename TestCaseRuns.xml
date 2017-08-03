@@ -1,0 +1,20 @@
+<TestCaseRuns>
+  <TestCaseRun Id="69751">
+    <Passed nil="true" />
+    <TestCases>
+      <TestCase Id="20817" Name="CSV Export/Import check list + Filter" />
+    </TestCases>
+  </TestCaseRun>
+  <TestCaseRun Id="69752">
+    <Passed nil="true" />
+    <TestCases>
+      <TestCase Id="20821" Name="Charts check list" />
+    </TestCases>
+  </TestCaseRun>
+  <TestCaseRun Id="69753">
+    <Passed nil="true" />
+    <TestCases>
+      <TestCase Id="20814" Name="(F)CK editor check list + cross browser testing" />
+    </TestCases>
+  </TestCaseRun>
+</TestCaseRuns>
